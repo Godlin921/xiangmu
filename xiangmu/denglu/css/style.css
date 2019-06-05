@@ -1,0 +1,31 @@
+.margin{width:1200px;margin:0 auto;}
+header{height:130px;}
+header .l{float:left;}
+header .l img{float:left;margin-top:43px;}
+header .l p{float:left;font-size: 18px;line-height: 130px;color:#8c8c8c;margin-left:12px;}
+header .r{float:right;font-size: 14px;color: #8c8c8c;line-height: 130px;}
+header .r a{color:#f42424;}
+#banner .dl{position:relative;}
+#banner .dl .dl1{position:absolute;right:0;top:-478px;width:350px;background-color:#fff;padding:20px 40px 30px;}
+#banner .dl .dl1 .tit{height: 20px;line-height: 20px;text-align: center;position: relative;margin-bottom: 10px;}
+#banner .dl .dl1 .tit h3{font-size: 16px;color: #8c8c8c;}
+#banner .dl .dl1 .form{position:relative;}
+#banner .dl .dl1 .form .u{width:268px;height:38px;line-height: 38px;border:1px solid #d2d2d2;margin-bottom: 10px;}
+#banner .dl .dl1 .form i{margin:0 11px 0 14px;}
+#banner .dl .dl1 .form .u input{border:none;font-weight: inherit;color:#555;width:223px;font-size: 100%;}
+#banner .dl .dl1 .form #user{height:28px;}
+#banner .dl .dl1 .form .p{width:268px;height:38px;line-height: 38px;border:1px solid #d2d2d2;margin-bottom: 10px;}
+#banner .dl .dl1 .form .p input{border:none;font-weight: inherit;color:#555;width:223px;font-size: 100%;}
+#banner .dl .dl1 .form #pass{height:28px;}
+#banner .dl .dl1 .form .d{}
+#banner .dl .dl1 .form .d input{width:270px;height:40px;border:0;font-size: 16px;background:#ec5051;color:#fff;border-radius:3px;}
+footer{background:#eee;height:163px;text-align: center;padding-top: 30px;}
+footer .t{font:15px/30px "";}
+footer .t a{color:rgba(85,85,85,.5);}
+footer .t a:hover{color:#f42424;}
+footer .c{font:15px/30px "";}
+footer .c a{color:rgba(85,85,85,.5);}
+footer .c a:hover{color:#f42424;}
+footer .c span{margin:0 5px;}
+footer p{font:15px/30px "";color:rgba(85,85,85,.5);}
+footer p a:hover{color:#f42424;}
